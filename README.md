@@ -1,7 +1,3 @@
-Berikut adalah file README dalam bahasa Inggris tanpa contoh kode:
-
----
-
 # NilaOpti
 
 NilaOpti is a water pH and temperature monitoring project using ESP-NOW with time synchronization implementation. This project employs a one-to-many method, where one master receives data from two slaves, each responsible for collecting water pH and temperature data. The master will display the current conditions based on the data received from the two slaves.
